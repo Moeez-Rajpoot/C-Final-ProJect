@@ -1,7 +1,7 @@
 # C++ Final-ProJect
 # Employee Management System
  This Is the Final C ++ Semester Project *Employee Management System* 
- There are many checks and other properties and feature in this project which is not described Below...
+ There are many checks ,Functions and features in this project which is not described Below...
  
  <h2> Login Screen </h2>
  <p> After 3 attempts it will Display that Your system has been Locked <p>
