@@ -16,22 +16,18 @@
  <p>*************************************************************************************************************<p>	 
 	 <h3> Option A </h3>
 		 <p> HOW MUCH NO OF EMPLOYEE DATA YOU WANT TO ENTER Max 100 can also be changed to dynamic <p>
-	         <p> It will display No of data enter <p>
-		 <p> No of Employee capicity <p>
-		 <p> ENTERING PROPERTIES <p>
-	       
-		 <p> 1) ENTER EMPLOYEE NAME <p>
-		 <p> 2) ENTER EMPLOYEE DEPARTMENT <p>
-		 <p> 3) ENTER EMPLOYEE ADDRESS	<p>
-		 <p> 4) ENTER EMPLOYEE SALARY <p>
+	         <p> It will display No of data enter </p>
+		 <p> No of Employee capicity </p>
+		 <p> ENTERING PROPERTIES </p>
+		 <p> 1) ENTER EMPLOYEE NAME </p>
+		 <p> 2) ENTER EMPLOYEE DEPARTMENT </p>
+		 <p> 3) ENTER EMPLOYEE ADDRESS	</p>
+		 <p> 4) ENTER EMPLOYEE SALARY </p>
 		
 <p> ************************************************************************************************************* <p>			 
-	 
 	 <h3> Option B </h3>
-	         <p> It will display All the Employee data in Verbose Way <p>
-	
+	         <p> It will display All the Employees data in Verbose Way <p>
 <p> ************************************************************************************************************* <p>
-	
 	 <h3> Option C </h3>
 	         <p> ENTER YOUR CHOICE: <p>
 	         <p> 1) FOR SEARCH BY ID.<p>
@@ -39,16 +35,28 @@
 		 <p> 3) FOR SEARCH BY DEPARTMENT.<p>
 		 <p> 4) FOR SEARCH BY CELL NO. <p>
 		 <p> 5) FOR MAIN MENU.<p>
-			 
 <p>*************************************************************************************************************<p>
-	
-	 <h3> Option D </h3>
+         <h3> Option D </h3>
 	 <p> ENTER YOUR CHOICE : <p>
 	 <p> 1) FOR DISPLAYING MAXIMUM SALARY AND ITS RECORD. <p>
 	 <p> 2) FOR DISPLAYING USER DEFINED RANGE SALARIES AND ITS RECORD. <p>
 	 <p> 3) FOR MAIN MENU. <p>
+<p>*************************************************************************************************************<p>	
+	 <h3> Option E </h3>
+	 <p> ENTER YOUR CHOICE NUMBER: </p>
+	 <p> 1) FOR MODIFYING RECORD OF EMPLOYEE. <p>
+	 <p> 2) FOR DELETING RECORD OF EMPLOYEE. <p>
+	 <p> 3) FOR MAIN MENU.<p>
+<p>*************************************************************************************************************<p>
+	 <h3> Option F </h3>
+	 <p> It will Exit This Program by displaying a message of Thank You For Using Our Product <p>
+
+<p>*************************************************************************************************************<p>
+	
+	 By Moeez Rajpoot
+	
+	
 		 
-<p>*************************************************************************************************************<p>		 
 		 
 		 
 			 
